@@ -56,6 +56,7 @@ const Testimonial = () => {
               <div key={data.id} className="mb-8">
                 <div className="flex flex-col items-center gap-4 text-center shadow-lg p-4 rounded-xl bg-white">
                   <img
+                  
                     className="rounded-full w-20 h-20 mx-auto"
                     src={data.img}
                     alt=""
