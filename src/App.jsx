@@ -7,6 +7,7 @@ import AppStore from './Component/AppStore/AppStore'
 import Testimonial from './Component/TestiMonial/Testimonial'
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Footer from './Component/Footer/Footer'
 
 
 const App = () => {
@@ -27,6 +28,7 @@ const App = () => {
       <Banner />
       <AppStore/>
       <Testimonial />
+      <Footer />
       </div>
   )
 }
