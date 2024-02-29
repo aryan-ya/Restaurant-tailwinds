@@ -10,7 +10,7 @@ import footerLogo from "../../assets/food-logo.png";
 
 const Footer = () => {
   return (
-    <div className="bg-gray-100 dark:bg-gray-950 text-white">
+    <div className="bg-gray-100 dark:bg-gray-950 dark:text-white">
       <section className="max-w-[1200px] mx-auto">
         <div className=" grid md:grid-cols-3 py-5">
           <div className=" py-8 px-4 ">
